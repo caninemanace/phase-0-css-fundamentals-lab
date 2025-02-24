@@ -3,3 +3,18 @@ body {
   height: 100%;
   margin: 0;
 }
+.nav-bar{
+  text-align: center;
+}
+#featured-property{
+  justify-items: center;
+}
+.nav-links{
+  background-color: grey;
+  padding: 10px;
+}
+.caption{
+  font-size: small;
+  text-align: center;
+}
+
